@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "486644104976",
+    "project_id": "stockhelper-8b520",
+    "storage_bucket": "stockhelper-8b520.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486644104976:android:56ee5bffaeac04d1bfef95",
+        "android_client_info": {
+          "package_name": "com.example.stockhelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486644104976-p3tdq3eiaadps5kf069ic0orm9hpaej6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNKs5xxI1MChF6B_FOx4cTaA7T6GcBKok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486644104976-p3tdq3eiaadps5kf069ic0orm9hpaej6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

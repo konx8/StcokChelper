@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">StockHelper</string>
+    <string name="appName">StockHelper</string>
+    <string name="app_logo">StockHelper</string>
+    <string name="login_email">Email</string>
+    <string name="login_button">Login</string>
+    <string name="password_entry">Password</string>
+    <string name="register_text">Register</string>
+    <string name="register_email">Email</string>
+    <string name="register_repeat_password">Repeat password</string>
+    <string name="register_username">Username</string>
+    <string name="favorite">FAVORITE</string>
+    <string name="profile">PROFILE</string>
+    <string name="settings">SETTINGS</string>
+    <string name="logout">LOGOUT</string>
+    <string name="search">SEARCH</string>
+    <string name="test_name_resource">Test</string>
+    <string name="stock_open">Open</string>
+    <string name="stock_low">Low</string>
+    <string name="stock_high">High</string>
+    <string name="stock_prev_close">Prev. close</string>
+    <string name="history_range_1m">1M</string>
+    <string name="history_range_all">ALL</string>
+    <string name="history_range_1y">1Y</string>
+    <string name="history_range_5d">5D</string>
+    <string name="history_range_1d">1D</string>
+    <string name="stock_price_history">Price History</string>
+    <string name="add_to_fav">Add to Fav</string>
+    <string name="profile_start_buton_text">Start</string>
+    <string name="profile_balance_text">Your current account balance:</string>
+</resources>
